@@ -15,3 +15,5 @@ public class HanoiRhymer extends defaultCountingOutRhymer {
 	        super.countIn(in);
 	}
 }
+
+// Kombinacja klawiszy  alt + ← oraz alt + → powodują przełączanie między otwartymi plikami.
